@@ -11,7 +11,6 @@ A full-stack note-taking application built with **React**, **Express**, and **Mo
 ### Home Page
 > Browse all your notes in a responsive card grid with a dark "sunset" theme. Each card shows the title, a content preview, the creation date, and quick edit/delete actions.
 
-![Home Page]
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e657b2f8-596e-44f9-af51-0f1cb214590e" />
 
 
