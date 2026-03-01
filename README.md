@@ -11,17 +11,17 @@ A full-stack note-taking application built with **React**, **Express**, and **Mo
 ### Home Page
 > Browse all your notes in a responsive card grid with a dark "sunset" theme. Each card shows the title, a content preview, the creation date, and quick edit/delete actions.
 
-![Home Page](https://github.com/user-attachments/assets/home-page)
+![Home Page]
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e657b2f8-596e-44f9-af51-0f1cb214590e" />
+
 
 ### Create Note
 > A clean form to add a new note with a title and content. Includes input validation and a cooldown to prevent spam.
 
-![Create Note](https://github.com/user-attachments/assets/create-note)
 
 ### Edit / Detail View
 > Click any note to view its full content. Update the title or content and save, or delete the note entirely.
 
-![Edit Note](https://github.com/user-attachments/assets/edit-note)
 
 > 📌 *Visit the [live demo](https://note-app-fuwn.onrender.com) to see the full application in action.*
 
